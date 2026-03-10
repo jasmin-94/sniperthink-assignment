@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import StrategyFlow from "./components/StrategyFlow";
 import FeaturesSection from "./components/FeaturesSection";
+import Footer from "./components/Footer";
 
 function App() {
 return ( <div> <Navbar />
@@ -40,6 +41,7 @@ return ( <div> <Navbar />
   <StrategyFlow />
 
   <FeaturesSection />
+  <Footer/>
 </div>
 
 );
