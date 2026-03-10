@@ -5,7 +5,6 @@ import FeaturesSection from "./components/FeaturesSection";
 function App() {
 return ( <div> <Navbar />
 
-```
   {/* HERO SECTION */}
   <div
     style={{
@@ -42,7 +41,6 @@ return ( <div> <Navbar />
 
   <FeaturesSection />
 </div>
-```
 
 );
 }
