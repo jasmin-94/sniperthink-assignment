@@ -41,13 +41,10 @@ return ( <div>
     </p>
   </div>
 
-  {/* STRATEGY SECTION */}
   <StrategyFlow />
 
-  {/* FEATURES SECTION */}
   <FeaturesSection />
 
-  {/* FOOTER */}
   <Footer />
 
 </div>
