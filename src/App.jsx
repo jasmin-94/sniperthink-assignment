@@ -1,14 +1,11 @@
 import Navbar from "./components/Navbar";
 import StrategyFlow from "./components/StrategyFlow";
 import FeaturesSection from "./components/FeaturesSection";
-import Footer from "./components/Footer";
 
 function App() {
-return ( <div>
+return ( <div> <Navbar />
 
 ```
-  <Navbar />
-
   {/* HERO SECTION */}
   <div
     style={{
@@ -44,9 +41,6 @@ return ( <div>
   <StrategyFlow />
 
   <FeaturesSection />
-
-  <Footer />
-
 </div>
 ```
 
